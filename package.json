@@ -1,0 +1,9 @@
+{
+  "name": "uidiff-skill",
+  "private": true,
+  "type": "module",
+  "description": "UIDiff skill: capture before/after UI screenshots and build a PR-ready markdown table",
+  "dependencies": {
+    "playwright-core": "^1.50.0"
+  }
+}
