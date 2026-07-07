@@ -1,6 +1,6 @@
 # UIDiff
 
-[![skills.sh](https://skills.sh/b/williambout/uidiff)](https://skills.sh/williambout/uidiff)
+[![skills.sh](https://www.skills.sh/b/williambout/uidiff)](https://www.skills.sh/williambout/uidiff)
 
 Capture **before/after** screenshots of UI you're changing — production vs local dev — and get a markdown comparison table ready to paste into a GitHub PR.
 
