@@ -1,6 +1,6 @@
 # UIDiff
 
-[![skills.sh](https://www.skills.sh/b/williambout/uidiff)](https://www.skills.sh/williambout/uidiff)
+[![skills.sh](https://www.skills.sh/b/williambout/skills)](https://www.skills.sh/williambout/skills)
 
 Capture **before/after** screenshots of UI you're changing — production vs local dev — and get a markdown comparison table ready to paste into a GitHub PR.
 
@@ -9,13 +9,13 @@ A **Claude Code skill**: invoke `/uidiff` and Claude finds your dev server and p
 ## Install
 
 ```bash
-npx skills add williambout/uidiff
+npx skills add williambout/skills
 ```
 
 Or for development, from a clone:
 
 ```bash
-cd UIDiff/skills/uidiff
+cd skills/skills/uidiff
 npm install
 ln -sfn "$(pwd)" ~/.claude/skills/uidiff
 ```
