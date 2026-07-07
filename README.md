@@ -12,8 +12,6 @@ A **Claude Code skill**: invoke `/uidiff` and Claude finds your dev server and p
 npx skills add williambout/uidiff
 ```
 
-Dependencies (`playwright-core` only — it drives your installed Chrome, no browser download) are installed automatically on first use.
-
 Or for development, from a clone:
 
 ```bash
